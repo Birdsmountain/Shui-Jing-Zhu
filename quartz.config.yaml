@@ -1,13 +1,13 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: 水经注
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
-  baseUrl: birds.mysite.github.io
+  locale: zh-CN
+  baseUrl: shui-jing-zhu.pages.dev
   ignorePatterns:
     - private
     - templates
