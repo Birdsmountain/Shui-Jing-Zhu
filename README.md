@@ -2,7 +2,7 @@
 
 发起人：尧方子（中国当代艺术家）
 项目归属：昆仑一号·昆仑典系列·水经注
-技术载体：Obsidian + GitHub
+Obsidian图谱发布页：https://shui-jing-zhu.pages.dev/
 GitHub仓库地址：https://github.com/Birdsmountain/Shui-Jing-Zhu.git
 邮件联系：kunlunyihao@163.com
 
@@ -135,7 +135,7 @@ GitHub的提交记录（commit history）因此具有了元艺术的价值——
 
 项目发起人：尧方子
 项目归属：昆仑一号·昆仑典系列·水经注
-技术载体：Obsidian + GitHub
+Obsidian图谱发布页：https://shui-jing-zhu.pages.dev/
 GitHub仓库地址：https://github.com/Birdsmountain/Shui-Jing-Zhu.git
 邮件联系：kunlunyihao@163.com
 
